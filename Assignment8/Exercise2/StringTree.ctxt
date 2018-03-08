@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StringTree()
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=word
+comment1.target=void\ add(java.lang.String)
+comment2.params=word\ root
+comment2.target=StringTree.TreeNode\ addBranch(java.lang.String,\ StringTree.TreeNode)
+comment3.params=word
+comment3.target=void\ search(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=current
+comment5.target=java.lang.String\ getWord(StringTree.TreeNode)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
