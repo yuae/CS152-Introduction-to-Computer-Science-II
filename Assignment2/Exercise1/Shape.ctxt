@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Shape()
+comment0.text=\r\n\ Constructors\ for\ objects\ of\ class\ Shape\r\n
+comment1.params=color\ filled
+comment1.target=Shape(java.lang.String,\ boolean)
+comment2.params=color
+comment2.target=void\ setColor(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment4.params=filled
+comment4.target=void\ setFilled(boolean)
+comment5.params=
+comment5.target=boolean\ isFilled()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

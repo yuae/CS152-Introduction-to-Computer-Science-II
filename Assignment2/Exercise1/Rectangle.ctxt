@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rectangle()
+comment1.params=width\ length
+comment1.target=Rectangle(double,\ double)
+comment2.params=width\ length\ color\ filled
+comment2.target=Rectangle(double,\ double,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=double\ getWidth()
+comment4.params=width
+comment4.target=void\ setWidth(double)
+comment5.params=
+comment5.target=double\ getLength()
+comment6.params=length
+comment6.target=void\ setLength(double)
+comment7.params=
+comment7.target=double\ getArea()
+comment8.params=
+comment8.target=double\ getPerimeter()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Panel()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=cartesian
+comment2.target=java.awt.Point\ toJava(java.awt.Point)
+comment3.params=java
+comment3.target=java.awt.Point\ toCartesian(java.awt.Point)
+numComments=4

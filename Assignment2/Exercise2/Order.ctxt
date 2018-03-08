@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=orderNumber\ tax
+comment0.target=Order(int,\ double)
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=treat
+comment2.target=void\ addTreat(Treat)
+comment3.params=
+comment3.target=int\ numberOfItems()
+comment4.params=
+comment4.target=double\ totalCost()
+comment5.params=
+comment5.target=double\ totalTax()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
