@@ -1,0 +1,20 @@
+/**
+ * Breath - main driver
+ * 
+ * @author Ye Yuan(ID:145919) 
+ * @version Mar.12, 2017
+ */
+
+import javax.swing.*;
+
+public class Breath
+{
+    public static void main(String[] args)
+    {
+        JFrame frame = new JFrame("Bubbles");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.getContentPane().add(new MyPanel());
+        frame.pack();
+        frame.setVisible(true);
+    }
+}

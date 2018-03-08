@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BubblePanel()
+comment1.params=
+comment1.target=void\ startBreathing()
+comment2.params=
+comment2.target=void\ Move()
+comment3.params=page\ phase\ color
+comment3.target=void\ DrawCircle(java.awt.Graphics,\ int,\ java.awt.Color)
+comment4.params=
+comment4.target=javax.swing.JButton\ StartButton()
+comment5.params=
+comment5.target=javax.swing.JButton\ StopButton()
+comment6.params=
+comment6.target=javax.swing.JPanel\ ButtonPanel()
+comment7.params=
+comment7.target=javax.swing.JPanel\ BreathPanel()
+comment8.params=
+comment8.target=void\ breath()
+comment9.params=
+comment9.target=void\ suffocate()
+numComments=10
